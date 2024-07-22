@@ -1,0 +1,22 @@
+{
+  "name": "custom-vis-timeline",
+  "version": "1.0.0",
+  "description": "",
+  "main": "lib/entry-peer.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "files": [
+    "lib",
+    "vis.timeline.css"
+  ],
+  "scripts": {
+    "build": "webpack"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "webpack": "^5.93.0",
+    "webpack-cli": "^5.1.4"
+  }
+}
